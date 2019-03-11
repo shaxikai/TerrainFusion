@@ -17,34 +17,54 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
 
 
 <figure class="third">
+    <a href="./images/DSMfactory-side.png">
     <img src="./images/DSMfactory-side.png" width="250"/>
+    <a href="./images/DSMvillage-side.png">
     <img src="./images/DSMvillage-side.png" width="250"/>
-    <img src="./images/DSMmountainlong-side.png" width="250"/>
 </figure>
 
 <figure class="third">
+    <a href="./images/DSMfactory-up.png">
     <img src="./images/DSMfactory-up.png" width="250"/>
+    <a href="./images/DSMvillage-up.png">
     <img src="./images/DSMvillage-up.png" width="250"/>
-    <img src="./images/DSMmountainlong-up.png" width="260"/>
 </figure>
 
-​                 (a) _mavic-facotry_                                (b) _mavic-village_                               (c) _ilce-mountainlong_      
+​                 (a) _mavic-facotry_                                (b) _mavic-village_                                 
 
 
 
 <figure class="third">
-    <img src="./images/DSMshamo-side.png" width="250"/>
-    <img src="./images/DSMfengniao-side.png" width="250"/>
+    <a href="./images/DSMmountainlong-side.png">
+    <img src="./images/DSMmountainlong-side.png" width="250"/>
+    <a href="./images/DSMmound60-side.png">
     <img src="./images/DSMmound60-side.png" width="250"/>
 </figure>
 
-<figure class="third">
-    <img src="./images/DSMshamo-up.png" width="260"/>
-    <img src="./images/DSMfengniao-up.png" width="260"/>
+ <figure class="third">
+    <a href="./images/DSMmountainlong-up.png">
+    <img src="./images/DSMmountainlong-up.png" width="260"/>
+    <a href="./images/DSMmound60s-up.png">
     <img src="./images/DSMmound60s-up.png" width="220"/>
 </figure>
 
-​            (d) _pyantom3-olathe_                             (e) _mavic-fengniao_                          (f) _mavic-mound60m_ 
+ 　　 (c) _ilce-mountainlong_  　　　　　　　(f) _mavic-mound60m_ 
+
+<figure class="third">
+    <a href="./images/DSMshamo-side.png">
+    <img src="./images/DSMshamo-side.png" width="250"/>
+    <a href="./images/DSMfengniao-side.png">
+    <img src="./images/DSMfengniao-side.png" width="250"/>
+</figure>
+
+<figure class="third">
+    <a href="./images/DSMshamo-up.png">
+    <img src="./images/DSMshamo-up.png" width="260"/>
+    <a href="./images/DSMfengniao-up.png">
+    <img src="./images/DSMfengniao-up.png" width="260"/>
+</figure>
+
+​            (d) _pyantom3-olathe_                             (e) _mavic-fengniao_                         
 
 
 
