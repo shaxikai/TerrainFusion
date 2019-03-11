@@ -1,51 +1,56 @@
 ## TerrainFusion: Real-time Digital Surface Model Reconstruction based on Monocular SLAM.
 
-TerrainFuison pdf : 
-
-###TerrainFusion Dataset
-
-Download the dataset from http://XXX.com
-which contains several scenarios, including city, mountains, desert, and plains. 
-The resolution of the aerial images is 4000×3000. 
-
-###Results on TerrainFusion Dataset
+TerrainFuison pdf : https://github.com/shaxikai/TerrainFusion/blob/master/TerrainFusion.pdf
 
 
 
+### TerrainFusion Dataset
+
+Download the dataset from http://XXX.com which contains several scenarios, including city, mountains, desert, and plains.  The resolution of the aerial images is 4000×3000. 
 
 
-Video : 
 
-Dataset : 
+### Results on TerrainFusion Dataset
 
-### Markdown
+An evaluation of our system is performed over the [TerrainFusion Dataset](http://XXX.com), where the DSM (top) and orthomosaic (bottom) results are shown in the figures below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<figure class="third">
+    <img src="./images/DSMfactory-side.png" width="250"/>
+    <img src="./images/DSMvillage-side.png" width="250"/>
+    <img src="./images/DSMmountainlong-side.png" width="250"/>
+</figure>
 
-- Bulleted
-- List
+<figure class="third">
+    <img src="./images/DSMfactory-up.png" width="250"/>
+    <img src="./images/DSMvillage-up.png" width="250"/>
+    <img src="./images/DSMmountainlong-up.png" width="260"/>
+</figure>
 
-1. Numbered
-2. List
+​                 (a) _mavic-facotry_                                (b) _mavic-village_                               (c) _ilce-mountainlong_      
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<figure class="third">
+    <img src="./images/DSMshamo-side.png" width="250"/>
+    <img src="./images/DSMfengniao-side.png" width="250"/>
+    <img src="./images/DSMmound60-side.png" width="250"/>
+</figure>
 
-### Jekyll Themes
+<figure class="third">
+    <img src="./images/DSMshamo-up.png" width="260"/>
+    <img src="./images/DSMfengniao-up.png" width="260"/>
+    <img src="./images/DSMmound60s-up.png" width="220"/>
+</figure>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaxikai/TerrainFusion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+​            (d) _pyantom3-olathe_                             (e) _mavic-fengniao_                          (f) _mavic-mound60m_ 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Video
+
+TerrainFusion.mp4 
+
+
+
