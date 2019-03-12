@@ -6,7 +6,7 @@ TerrainFuison pdf : https://github.com/shaxikai/TerrainFusion/blob/master/Terrai
 
 ### TerrainFusion Dataset
 
-Download the dataset from http://XXX.com which contains several scenarios, including city, mountains, desert, and plains.  The resolution of the aerial images is 4000×3000. 
+Download the dataset from http://XXX.com which contains several scenarios, including city, mountains, desert, and plains.  The resolution of the aerial images is 4000×3000. The full resolution results are available by clicking on the thumbnails.
 
 
 
@@ -18,43 +18,43 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
 
 <figure>
     <a href="./images/DSMfactory-side.png">
-        <img src="./images/DSMfactory-side-s.png" width="200"/></a>
+        <img src="./images/factory_s.png" width="180"/></a>
     <a href="./images/DSMvillage-side.png">
-        <img src="./images/DSMvillage-side-s.png" width="200"/></a>
+        <img src="./images/village_s.png" width="180"/></a>
     <a href="./images/DSMmountainlong-side.png">
-    	<img src="./images/DSMmountainlong-side.png" width="200"/></a>
+    	<img src="./images/mountain_s.png" width="180"/></a>
 </figure>
 
 <figure>
     <a href="./images/DSMfactory-up.png">
-        <img src="./images/DSMfactory-up-s.png" width="200"/></a>
+        <img src="./images/factory_up.png" width="180"/></a>
     <a href="./images/DSMvillage-up.png">
-    	<img src="./images/DSMvillage-up-s.png" width="200"/></a>
+    	<img src="./images/village_u.png" width="180"/></a>
     <a href="./images/DSMmountainlong-up.png">
-    	<img src="./images/DSMmountainlong-up-s.png" width="210"/></a>
+    	<img src="./images/mountain_u.png" width="180"/></a>
 </figure>
-
-
 
 
 
 <figure class="3">
     <a href="./images/DSMshamo-side.png">
-    <img src="./images/DSMshamo-side-s.png" width="200"/></a>
+        <img src="./images/shamo_s.png" width="180"/></a>
     <a href="./images/DSMfengniao-side.png">
-    <img src="./images/DSMfengniao-side-s.png" width="200"/></a>
-        <a href="./images/DSMmound60-side.png">
-    <img src="./images/DSMmound60-side.png" width="200"/></a>
+        <img src="./images/fengniao_s.png" width="180"/></a>
+    <a href="./images/DSMmound60-side.png">
+        <img src="./images/moun60_s.png" width="180"/></a>
 </figure>
 
-<figure class="4">
+
+<figure>
     <a href="./images/DSMshamo-up.png">
-    <img src="./images/DSMshamo-up-s.png" width="205"/></a>
+        <img src="./images/shamo_u.png" width="180"/></a>
     <a href="./images/DSMfengniao-up.png">
-    <img src="./images/DSMfengniao-up-s.png" width="205"></a>
+        <img src="./images/fengniao_u.png" width="180"></a>
     <a href="./images/DSMmound60s-up.png">
-    <img src="./images/DSMmound60s-up-s.png" width="190"/></a>
+        <img src="./images/moun60_u.png" width="180"/></a>
 </figure>
+
 
 
 
