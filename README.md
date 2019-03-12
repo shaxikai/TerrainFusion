@@ -43,7 +43,7 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
     <a href="./images/DSMfengniao-up.png">
         <img src="./images/DSMfengniao-up-s.png" width="183"></a>
     <a href="./images/DSMmound60s-up.png">
-        <img src="./images/DSMmound60s-up-s.png" width="185"/></a>
+        <img src="./images/DSMmound60s-up-s.png" width="177"/></a>
 </figure>
 
 
