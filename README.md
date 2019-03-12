@@ -23,9 +23,6 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
         <img src="./images/DSMvillage-side-s.png" width="180"/></a>
     <a href="./images/DSMmountainlong-side.png">
     	<img src="./images/DSMmountainlong-side.png" width="180"/></a>
-</figure>
-
-<figure>
     <a href="./images/DSMfactory-up.png">
         <img src="./images/DSMfactory-up-s.png" width="180"/></a>
     <a href="./images/DSMvillage-up.png">
@@ -34,26 +31,19 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
     	<img src="./images/DSMmountainlong-up-s.png" width="185"/></a>
 </figure>
 
-
-
-
-
 <figure class="3">
     <a href="./images/DSMshamo-side.png">
-    <img src="./images/DSMshamo-side-s.png" width="180"/></a>
+        <img src="./images/DSMshamo-side-s.png" width="180"/></a>
     <a href="./images/DSMfengniao-side.png">
-    <img src="./images/DSMfengniao-side-s.png" width="180"/></a>
-        <a href="./images/DSMmound60-side.png">
-    <img src="./images/DSMmound60-side.png" width="180"/></a>
-</figure>
-
-<figure class="4">
+        <img src="./images/DSMfengniao-side-s.png" width="180"/></a>
+    <a href="./images/DSMmound60-side.png">
+        <img src="./images/DSMmound60-side.png" width="180"/></a>
     <a href="./images/DSMshamo-up.png">
-    <img src="./images/DSMshamo-up-s.png" width="182"/></a>
+        <img src="./images/DSMshamo-up-s.png" width="182"/></a>
     <a href="./images/DSMfengniao-up.png">
-    <img src="./images/DSMfengniao-up-s.png" width="183"></a>
+        <img src="./images/DSMfengniao-up-s.png" width="183"></a>
     <a href="./images/DSMmound60s-up.png">
-    <img src="./images/DSMmound60s-up-s.png" width="185"/></a>
+        <img src="./images/DSMmound60s-up-s.png" width="185"/></a>
 </figure>
 
 
