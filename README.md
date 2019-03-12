@@ -14,9 +14,58 @@ Download the dataset from http://XXX.com which contains several scenarios, inclu
 
 An evaluation of our system is performed over the [TerrainFusion Dataset](http://XXX.com), where the DSM (top) and orthomosaic (bottom) results are shown in the figures below.
 
-<table><tr><td><a href="./images/DSMfactory-side.png"><figure class="3"><img src="./images/DSMshamo-side-s.png" border=0></figure></td>
-<td><img src=./images/DSMvillage-side-s.png></td>
-</tr></table>
+
+
+<p>
+    <a href="./images/DSMfactory-side.png">
+    <img src="./images/DSMfactory-side-s.png" width="250"/>
+    <a href="./images/DSMvillage-side.png">
+    <img src="./images/DSMvillage-side-s.png" width="250"/>
+</p>
+
+<figure class="second">
+    <a href="./images/DSMfactory-up.png">
+    <img src="./images/DSMfactory-up-s.png" width="250"/>
+    <a href="./images/DSMvillage-up.png">
+    <img src="./images/DSMvillage-up-s.png" width="250"/>
+
+
+ 
+        
+
+<figure class="1">
+    <a href="./images/DSMmountainlong-side.png">
+    <img src="./images/DSMmountainlong-side.png" width="250"/>
+    <a href="./images/DSMmound60-side.png">
+    <img src="./images/DSMmound60-side.png" width="250"/>
+
+
+
+ <figure class="2">
+    <a href="./images/DSMmountainlong-up.png">
+    <img src="./images/DSMmountainlong-up-s.png" width="260"/>
+    <a href="./images/DSMmound60s-up.png">
+    <img src="./images/DSMmound60s-up-s.png" width="220"/>
+
+
+
+<figure class="3">
+    <a href="./images/DSMshamo-side.png">
+    <img src="./images/DSMshamo-side-s.png" width="250"/>
+    <a href="./images/DSMfengniao-side.png">
+    <img src="./images/DSMfengniao-side-s.png" width="250"/>
+
+
+<figure class="4">
+    <a href="./images/DSMshamo-up.png">
+    <img src="./images/DSMshamo-up-s.png" width="260"/>
+    <a href="./images/DSMfengniao-up.png">
+    <img src="./images/DSMfengniao-up-s.png" width="260">
+</figure>
+
+
+
+​	
 
 ### Video
 
