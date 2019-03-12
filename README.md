@@ -18,38 +18,6 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
 <td><img src=./images/DSMvillage-side-s.png></td>
 </tr></table>
 
-
-
-
-
-
-
-
-​        
-​        
-
-
-
-
-
-
-
-
-
-<figure class="3">
-    <a href="./images/DSMshamo-side.png">
-    <img src="./images/DSMshamo-side-s.png" width="250"/>
-    <a href="./images/DSMfengniao-side.png">
-    <img src="./images/DSMfengniao-side-s.png" width="250"/>
-
-
-
-
-
-
-
-​	
-
 ### Video
 
 [TerrainFusion.mp4]()
