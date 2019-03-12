@@ -56,8 +56,9 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
     <img src="./images/DSMshamo-up-s.png" width="260"/>
     <a href="./images/DSMfengniao-up.png">
     <img src="./images/DSMfengniao-up-s.png" width="260"/>
-</figure>               
+</figure>
 
+	
 
 ### Video
 
