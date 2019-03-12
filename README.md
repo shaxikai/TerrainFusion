@@ -14,6 +14,11 @@ Download the dataset from http://XXX.com which contains several scenarios, inclu
 
 An evaluation of our system is performed over the [TerrainFusion Dataset](http://XXX.com), where the DSM (top) and orthomosaic (bottom) results are shown in the figures below.
 
+<table><tr>
+<td><img src=./images/DSMfactory-side-s.png border=0></td>
+<td><img src=./images/DSMfactory-side-s.png border=0></td>
+</tr></table>
+
 
 <figure class="second">
     <a href="./images/DSMfactory-side.png">
