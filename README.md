@@ -12,7 +12,7 @@ Download the dataset from http://XXX.com which contains several scenarios, inclu
 
 ### Results on TerrainFusion Dataset
 
-An evaluation of our system is performed over the [TerrainFusion Dataset](http://XXX.com), where the DSM (top) and orthomosaic (bottom) results are shown in the figures below.
+An evaluation of our system is performed over the [TerrainFusion Dataset](http://XXX.com), where the DSM (top) and orthomosaic (bottom) results are shown in the figures below. The full resolution results are available by clicking on the thumbnails.
 
 
 
@@ -55,11 +55,6 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
         <img src="./images/moun60_u.png" width="180"/></a>
 </figure>
 
-
-
-
-
-​	
 
 ### Video
 
