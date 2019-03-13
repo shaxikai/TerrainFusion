@@ -1,6 +1,6 @@
 ## TerrainFusion: Real-time Digital Surface Model Reconstruction based on Monocular SLAM.
 
-TerrainFuison pdf : https://github.com/shaxikai/TerrainFusion/blob/master/TerrainFusion.pdf
+TerrainFuison pdf : [https://github.com/shaxikai/TerrainFusion/blob/master/TerrainFusion.pdf](https://github.com/shaxikai/TerrainFusion/blob/master/TerrainFusion.pdf)
 
 
 
@@ -17,22 +17,23 @@ An evaluation of our system is performed over the TerrainFusion Dataset, where t
 
 
 <figure>
-    <a href="./images/DSMfactory-side.png">
-        <img src="./images/factory_s.png" width="180"/></a>
-    <a href="./images/DSMvillage-side.png">
-        <img src="./images/village_s.png" width="180"/></a>
     <a href="./images/DSMmountainlong-side.png">
     	<img src="./images/mountain_s.png" width="180"/></a>
+    <a href="./images/DSMvillage-side.png">
+        <img src="./images/village_s.png" width="180"/></a>
+    <a href="./images/DSMfactory-side.png">
+        <img src="./images/factory_s.png" width="180"/></a>
 </figure>
 
 <figure>
-    <a href="./images/DSMfactory-up.png">
-        <img src="./images/factory_up.png" width="180"/></a>
-    <a href="./images/DSMvillage-up.png">
-    	<img src="./images/village_u.png" width="180"/></a>
     <a href="./images/DSMmountainlong-up.png">
     	<img src="./images/mountain_u.png" width="180"/></a>
+    <a href="./images/DSMvillage-up.png">
+    	<img src="./images/village_u.png" width="180"/></a>
+    <a href="./images/DSMfactory-up.png">
+        <img src="./images/factory_u.png" width="180"/></a>
 </figure>
+
 
 
 
