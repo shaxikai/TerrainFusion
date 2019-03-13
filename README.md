@@ -6,7 +6,7 @@ TerrainFuison pdf : https://github.com/shaxikai/TerrainFusion/blob/master/Terrai
 
 ### TerrainFusion Dataset
 
-Download the dataset from http://XXX.com which contains several scenarios, including city, mountains, desert, and plains.  The resolution of the aerial images is 4000×3000. The full resolution results are available by clicking on the thumbnails.
+Download the dataset from https://pan.baidu.com/s/1j-sv6Id9Kbk3qwfW7bZvqg (password : wn8r) which contains several scenarios, including city, mountains, desert, and plains.  The resolution of the aerial images is 4000×3000. The full resolution results are available by clicking on the thumbnails.
 
 
 
@@ -58,7 +58,12 @@ An evaluation of our system is performed over the [TerrainFusion Dataset](http:/
 
 ### Video
 
-[TerrainFusion.mp4]()
+Download the video from https://pan.baidu.com/s/1kh2iMtpRRxrThzy694nu5g (password : nhq8) 
 
 
 
+### Application
+
+RTMapper
+
+to be continued.....
