@@ -65,4 +65,4 @@ Download the video from [https://pan.baidu.com/s/1kh2iMtpRRxrThzy694nu5g]( https
 
 ### Application
 
-[SIBITU](http://www.sibitu.cn/web/cn/)
+实时快拼软件[SIBITU](http://www.sibitu.cn/web/cn/)
